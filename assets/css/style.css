@@ -75,8 +75,6 @@ h1, h2 {
     animation-fill-mode: forwards;
 }
 
-
-
 /* creates the level of zoom for hero image */
 
 @keyframes hero-zoom {
